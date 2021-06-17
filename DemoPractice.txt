@@ -1,0 +1,10 @@
+
+
+Sample Project 
+
+
+1. Creating an repo
+
+2. Understand the function
+
+3. Commit the changes
