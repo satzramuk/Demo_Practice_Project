@@ -8,3 +8,5 @@ Sample Project
 2. Understand the function
 
 3. Commit the changes
+
+4.Updating the committed changes
