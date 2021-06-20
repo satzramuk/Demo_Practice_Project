@@ -14,3 +14,5 @@ Sample Project
 5. Adding the video call feature
 
 6. Adding the audio call feature
+
+7. Adding the status feature for user to make use of it.
